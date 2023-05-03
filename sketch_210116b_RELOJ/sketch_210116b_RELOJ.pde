@@ -9,7 +9,7 @@ void draw() {
 
   pushMatrix();
 
-  //eje de coordenadas centrao en canvas:
+  //eje de coordenadas centrado en canvas:
   translate(width/2, height/2);
 
   background(255, 255, 225);
